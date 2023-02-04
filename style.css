@@ -1,0 +1,16 @@
+body{
+
+    text-align: center;
+
+}
+
+main{
+
+    background-color: bisque;
+    font-family: 'Montserrat';
+}
+
+#images{
+    width: 400px;
+    height: 400px;
+}
